@@ -7,9 +7,11 @@
     font-family: Gilroy, sans-serif;
     border: none;
 }
-body{
+
+body {
     overflow-x: hidden;
 }
+
 main {
     width: 1400px;
     margin: 0 auto;
@@ -120,8 +122,13 @@ h2 {
     border: 2px solid #007FFF;
 }
 
-/* @media only screen and (max-with: 1440px; ) {
-    body {
-        overflow-x: hidden;
+@media only screen and (max-width: 1400px) {
+    ._m_top p {
+        display: none;
     }
-} */
+
+    body, button {
+        background-color: #000;
+        color: #fff !important;
+    }
+}
