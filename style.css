@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    /* font-size: 100%; */
+    font-family: Gilroy, sans-serif;
+    border: none;
+}
+body{
+    overflow-x: hidden;
+}
+main {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+h1 {
+    padding-bottom: 25px;
+}
+
+._m_top {
+    width: 60%;
+    margin: 50px auto;
+}
+
+._m_main {
+    width: 630px;
+
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+._m_r_t {
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 38px;
+    padding-bottom: 10px;
+}
+
+#clr_mc {
+    font-size: 18px;
+    font-weight: 600;
+    color: #0071E3;
+}
+
+._m_r_1 {
+    height: 250px;
+}
+
+#_m_r_b {
+    font-size: 45px;
+}
+
+._m_clr {
+    margin-left: 15.5px;
+    margin-top: 15px;
+}
+
+.set {
+    width: 155px;
+    height: 42px;
+
+    margin: 0 7px;
+
+    color: #797979;
+    background-color: #CFE7FF;
+    border-radius: 10px;
+
+    font-size: 16px;
+
+    cursor: pointer;
+}
+
+.active {
+    color: #fff;
+    background-color: #0071E3;
+}
+
+._m_SSD {
+    display: flex;
+    flex-direction: column;
+
+    width: 22%;
+    margin: 30px auto;
+
+    gap: 15px;
+}
+
+._ssd_btn {
+    width: 321px;
+    height: 57px;
+
+    border: 2px solid #CFE7FF;
+    border-radius: 10px;
+    background-color: transparent;
+
+    cursor: pointer;
+
+    display: flex;
+    justify-content: space-between;
+
+    padding: 20px;
+
+    font-weight: bolder;
+    font-size: 18px;
+    color: #000000;
+}
+
+.font_sp {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.act_ssd {
+    border: 2px solid #007FFF;
+}
+
+/* @media only screen and (max-with: 1440px; ) {
+    body {
+        overflow-x: hidden;
+    }
+} */
