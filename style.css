@@ -156,6 +156,7 @@ h2 {
 
     ._m_main {
         display: block;
+        margin-left: 20px;
     }
 
     ._m_r_1 {
@@ -184,6 +185,6 @@ h2 {
     }
 
     ._m_clr {
-        margin-left: -25px
+        margin-left: -20px
     }
 }
