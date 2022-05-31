@@ -79,7 +79,7 @@ h2 {
 
 .active {
     color: #fff;
-    background-color: #0071E3;
+    background-color: #0071E3 !important;
 }
 
 ._m_SSD {
@@ -182,6 +182,7 @@ h2 {
 
     .set {
         color: #797979;
+        background-color: #953125FF;
     }
 
     ._m_clr {
