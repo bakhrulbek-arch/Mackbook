@@ -132,8 +132,12 @@ h2 {
 
     main {
         overflow-x: hidden;
+        width: 80%;
     }
 
+    ._m_SSD {
+        width: 36%;
+    }
 }
 
 @media only screen and (max-width: 1021px) {
@@ -230,6 +234,7 @@ h2 {
     }
 
 }
+
 /* 
 @media only screen and (max-width: 722px) {
     ._m_SSD {
