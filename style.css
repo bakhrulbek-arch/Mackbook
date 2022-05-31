@@ -189,8 +189,48 @@ h2 {
         margin-left: -20px;
     }
 
-}
+    /* //clear */
 
+    ._m_SSD {
+        width: 100% !important;
+        margin: 0 auto;
+    }
+
+    .set {
+        width: 120px;
+    }
+
+    ._m_clr {
+        margin-left: -33px;
+        margin-bottom: 15px;
+    }
+
+    ._ssd_btn {
+        width: 80% !important;
+        margin: 0 auto;
+        margin-left: 15px;
+        height: 100%;
+    }
+
+    ._m_l_1 {
+        width: 600px;
+        margin: 0 auto;
+    }
+
+    .mac_reg {
+        width: 40%;
+    }
+
+    ._m_r_t {
+        margin-top: 25px;
+    }
+
+    ._m_r_1 {
+        margin-bottom: -90px;
+    }
+
+}
+/* 
 @media only screen and (max-width: 722px) {
     ._m_SSD {
         width: 100% !important;
@@ -229,4 +269,4 @@ h2 {
     ._m_r_1 {
         margin-bottom: -90px;
     }
-}
+} */
