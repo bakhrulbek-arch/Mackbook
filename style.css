@@ -193,7 +193,7 @@ h2 {
 @media only screen and (max-width: 722px) {
     ._m_SSD {
         width: 100% !important;
-
+        margin: 0 auto;
     }
 
     .set {
@@ -202,6 +202,7 @@ h2 {
 
     ._m_clr {
         margin-left: -33px;
+        margin-bottom: 15px;
     }
 
     ._ssd_btn {
