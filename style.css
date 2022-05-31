@@ -9,7 +9,7 @@
 
 body {
     overflow-x: hidden;
-    transition: .7s ease;
+    transition: 2s ease-in;
 }
 
 main {
